@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="RomanNumeralConverter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RomanNumeralConverter_jar</output-path>
+    <root id="archive" name="RomanNumeralConverter.jar">
+      <element id="module-output" name="RomanNumeralConverter" />
+    </root>
+  </artifact>
+</component>
